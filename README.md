@@ -1,1 +1,1 @@
-# project.tranzit
+# project-tranzit
